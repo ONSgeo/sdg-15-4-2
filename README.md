@@ -16,3 +16,5 @@ Mountain Green Cover Index (MGCI) is defined as the percentage of green cover ov
 
 The Mountain Green Cover index is based on two descriptor layers of information:
 
+
+
