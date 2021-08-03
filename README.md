@@ -12,3 +12,7 @@ Food and Agriculture Organization of the United Nations (FAO)
 
 Mountain Green Cover Index (MGCI) is defined as the percentage of green cover over the total surface of the mountain region of a given country and for given reporting year. MGCI is designed to measure the extent and the changes of green vegetation in mountain areas - i.e. forest, shrubs, trees, pasture land, cropland, etc. The aim of the index is to assess the status of conservation of mountain ecosystems.
 
+#### Concepts:
+
+The Mountain Green Cover index is based on two descriptor layers of information:
+
