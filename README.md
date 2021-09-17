@@ -19,6 +19,7 @@ The Mountain Green Cover index is based on two descriptor layers of information:
 #### 1. Mountain descriptor layer:
 
 The global mountain descriptor layer is based on the mountain classification proposed by Kapos et al. (2000):
+
 • Class 1: elevation > 4500 meters
 
 • Class 2: elevation 3500 - 4500 meters
@@ -33,8 +34,7 @@ The global mountain descriptor layer is based on the mountain classification pro
 
 • Class 0: Defined to represent the non-mountainous areas.
 
-The mountain description layer used to derive the global estimates was created by the US Geological
-Survey from a 250 m DEM (Sayre et al. 2018)
+The mountain description layer used to derive the global estimates was created by the US Geological Survey from a 250 m DEM (Sayre et al. 2018)
 
 
 
